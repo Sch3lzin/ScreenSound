@@ -12,3 +12,4 @@ C:\Users\sch3l\OneDrive\Documentos\Importantes!\Projects - Code\Aulas - Alura\C#
 C:\Users\sch3l\OneDrive\Documentos\Importantes!\Projects - Code\Aulas - Alura\C#\First porject\First porject\obj\Debug\net9.0\First porject.pdb
 C:\Users\sch3l\OneDrive\Documentos\Importantes!\Projects - Code\Aulas - Alura\C#\First porject\First porject\obj\Debug\net9.0\First porject.genruntimeconfig.cache
 C:\Users\sch3l\OneDrive\Documentos\Importantes!\Projects - Code\Aulas - Alura\C#\First porject\First porject\obj\Debug\net9.0\ref\First porject.dll
+C:\Users\sch3l\OneDrive\Documentos\Importantes!\Projects - Code\Aulas - Alura\C#\First porject\First porject\obj\Debug\net9.0\First porject.sourcelink.json
